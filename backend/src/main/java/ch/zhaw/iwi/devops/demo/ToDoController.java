@@ -34,6 +34,7 @@ public class ToDoController {
         this.todos.put(4,new ToDo(4, "Deployment", "Jede Woche!"));
         this.todos.put(5,new ToDo(5, "Organigramm", "Löschen"));
         this.todos.put(6,new ToDo(6, "Java bodtlben", "Version 21 zum Laufen bringen!"));
+        this.todos.put(7,new ToDo(7, "Lernjournal", "Das Lernjournal für DevOps fertigstellen!"));
         System.out.println("Init Data");
     }
 
